@@ -67,7 +67,7 @@ After running, the generated report will be saved as:
 
 ## 📁 Auto_Report_AI/report.pdf
 
-![Example](assets/report_preview.png)
+![Example](report_preview.png)
 
 The file includes:
 
