@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 Auto Report AI
 
 ### 📊 Automate your data reporting with the power of *AI + Python*
@@ -82,5 +83,11 @@ How to automate business tasks with real impact
 How to generate PDFs dynamically
 
 How to structure clean and reusable code
+<<<<<<< HEAD
 
 # Auto-Report-AI
+=======
+=======
+# Auto-Report-AI
+>>>>>>> a1a3540 (Initial commit)
+>>>>>>> 7d4ae7b (Initial commit)
