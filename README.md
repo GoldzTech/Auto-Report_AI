@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🤖 Auto Report AI
 
 ### 📊 Automate your data reporting with the power of *AI + Python*
@@ -84,6 +84,7 @@ How to generate PDFs dynamically
 
 How to structure clean and reusable code
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # Auto-Report-AI
 =======
@@ -91,3 +92,5 @@ How to structure clean and reusable code
 # Auto-Report-AI
 >>>>>>> a1a3540 (Initial commit)
 >>>>>>> 7d4ae7b (Initial commit)
+=======
+>>>>>>> 1f03f64 (Sync local with remote)
